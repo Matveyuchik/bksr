@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/bksr.dir/src/main.c.o CMakeFiles/bksr.dir/src/player.c.o CMakeFiles/bksr.dir/src/map.c.o CMakeFiles/bksr.dir/src/render.c.o CMakeFiles/bksr.dir/src/audio.c.o -o bksr  -lm /usr/lib/x86_64-linux-gnu/libGL.so /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 -ldl 

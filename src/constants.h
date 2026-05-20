@@ -1,0 +1,10 @@
+#ifndef BKSR_CONSTANTS_H
+#define BKSR_CONSTANTS_H
+
+#define M_PI 3.14159265358979323846
+#define SCREEN_WIDTH 1240
+#define SCREEN_HEIGHT 720
+#define FOV (M_PI / 3.0)
+#define MAX_DIST 20.0f
+
+#endif
