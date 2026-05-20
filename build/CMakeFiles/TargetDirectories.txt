@@ -1,3 +1,0 @@
-/mnt/c/Users/metro/Documents/proj/bksr/build/CMakeFiles/bksr.dir
-/mnt/c/Users/metro/Documents/proj/bksr/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/metro/Documents/proj/bksr/build/CMakeFiles/rebuild_cache.dir
