@@ -1,8 +1,9 @@
 #include "render.h"
-#include <GLFW/glfw3.h>
 #include "player.h"
 #include "constants.h"
 #include "map.h"
+
+#include <GLFW/glfw3.h>
 #include <math.h>
 
 void render(struct Player* p) 
@@ -33,7 +34,7 @@ void render(struct Player* p)
         float bright = 1.0f / (1.0f + corrected * 0.1f);
         if (bright < 0.2f) bright = 0.2f;
         
-        glBegin(GL_POINTS);
+        glBegin(GL_QUADS);
         glColor3ub(255 * bright, 255 * bright, 255 * bright);
         glVertex2i(x, start);
         glVertex2i(x+1, start);
