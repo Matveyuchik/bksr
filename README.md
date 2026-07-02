@@ -1,4 +1,4 @@
-**B**asic **K**ool **S**olid **R**aycast is the simple raycast engine, written in C.
+**B**asic **K**ool **S**olid **R**aycast is the simple pseudo-3D raycast engine, written in C.
 
 # Features
 1. DDA-algorithm for rendering
@@ -6,7 +6,7 @@
 3. Map system
 
 # Build
-Install `cmake`, `make` and `gcc` if you haven't installed yet.
+Install `cmake`, `make` and `gcc` if you haven't installed yet. Also make sure you have installed `glfw3`
 
 Then create a `build` directory:
 ```bash
